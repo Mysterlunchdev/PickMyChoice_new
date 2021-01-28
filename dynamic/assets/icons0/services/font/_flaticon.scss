@@ -1,0 +1,80 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 08/12/2020 05:03
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-haircut:before { content: "\f100"; }
+.flaticon-housekeeper:before { content: "\f101"; }
+.flaticon-vaccum-cleaner:before { content: "\f102"; }
+.flaticon-washing-machine:before { content: "\f103"; }
+.flaticon-electrician:before { content: "\f104"; }
+.flaticon-electrician-1:before { content: "\f105"; }
+.flaticon-electrician-2:before { content: "\f106"; }
+.flaticon-tap:before { content: "\f107"; }
+.flaticon-water-tap:before { content: "\f108"; }
+.flaticon-plumber-working:before { content: "\f109"; }
+.flaticon-massage:before { content: "\f10a"; }
+.flaticon-beauty-treatment:before { content: "\f10b"; }
+.flaticon-massage-1:before { content: "\f10c"; }
+.flaticon-roller:before { content: "\f10d"; }
+.flaticon-painter:before { content: "\f10e"; }
+.flaticon-paint-roller:before { content: "\f10f"; }
+.flaticon-carpenter:before { content: "\f110"; }
+.flaticon-carpenter-1:before { content: "\f111"; }
+.flaticon-carpenter-2:before { content: "\f112"; }
+.flaticon-repair:before { content: "\f113"; }
+    
+    $font-Flaticon-haircut: "\f100";
+    $font-Flaticon-housekeeper: "\f101";
+    $font-Flaticon-vaccum-cleaner: "\f102";
+    $font-Flaticon-washing-machine: "\f103";
+    $font-Flaticon-electrician: "\f104";
+    $font-Flaticon-electrician-1: "\f105";
+    $font-Flaticon-electrician-2: "\f106";
+    $font-Flaticon-tap: "\f107";
+    $font-Flaticon-water-tap: "\f108";
+    $font-Flaticon-plumber-working: "\f109";
+    $font-Flaticon-massage: "\f10a";
+    $font-Flaticon-beauty-treatment: "\f10b";
+    $font-Flaticon-massage-1: "\f10c";
+    $font-Flaticon-roller: "\f10d";
+    $font-Flaticon-painter: "\f10e";
+    $font-Flaticon-paint-roller: "\f10f";
+    $font-Flaticon-carpenter: "\f110";
+    $font-Flaticon-carpenter-1: "\f111";
+    $font-Flaticon-carpenter-2: "\f112";
+    $font-Flaticon-repair: "\f113";

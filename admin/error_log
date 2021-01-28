@@ -1,0 +1,1 @@
+[06-Jan-2021 12:00:55 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::editinprocesstasks() in /home/chitfinder/public_html/magnificit/admin/app/Http/Controllers/HomeController.php on line 1259
